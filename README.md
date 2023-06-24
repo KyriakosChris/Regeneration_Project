@@ -14,6 +14,7 @@ of Data Science. Your objective will be to thoroughly explore a provided dataset
 insights regarding its structure, quality, and key characteristics.
 
 Final Project:
+Cement Mill Plant Dataset Analysis for Predictive Modeling of Operating Conditions
 
 This project involves analyzing a 6-month dataset from a cement mill plant, focusing on two distinct 
 problems. The tasks include addressing dataset irregularities, understanding statistical 
